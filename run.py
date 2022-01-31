@@ -38,7 +38,7 @@ def answer(question_id, answer_id):
 
 @app.route("/Valentina")
 def Valentina():
-    return render_template("Valentina.html", question=random_question())
+    return render_template("Valentina.html")
 
 
 @app.route("/Fiona")
