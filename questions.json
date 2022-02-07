@@ -11,11 +11,11 @@
             }, {
                 "id": 2,
                 "text": "Tim"
-            }
+            },
             {
                 "id": 3,
                 "text": "Valentina"
-            }
+            },
             {
                 "id": 4,
                 "text": "Fiona"
@@ -24,10 +24,8 @@
 
         
         "correct": 2
-    }
-]
+    },
 
-[
     {
         "id": 1,
         "title": "Second Question",
@@ -39,7 +37,7 @@
             }, {
                 "id": 2,
                 "text": "Tim"
-            }
+            },
             {
                 "id": 3,
                 "text": "Valentina"
@@ -52,10 +50,8 @@
 
         
         "correct": 2
-    }
-]
+    },
 
-[
     {
         "id": 1,
         "title": "Third Question",
@@ -67,11 +63,11 @@
             }, {
                 "id": 2,
                 "text": "Tim"
-            }
+            },
             {
                 "id": 3,
                 "text": "Valentina"
-            }
+            },
             {
                 "id": 4,
                 "text": "Fiona"
@@ -80,10 +76,8 @@
 
         
         "correct": 1
-    }
-]
+    },
 
-[
     {
         "id": 1,
         "title": "Fourth Question",
@@ -95,11 +89,11 @@
             }, {
                 "id": 2,
                 "text": "Tim"
-            }
+            },
             {
                 "id": 3,
                 "text": "Valentina"
-            }
+            },
             {
                 "id": 4,
                 "text": "Fiona"
@@ -108,10 +102,8 @@
 
         
         "correct": 1
-    }
-]
+    },
 
-[
     {
         "id": 1,
         "title": "Fifth Question",
@@ -123,11 +115,11 @@
             }, {
                 "id": 2,
                 "text": "Tim"
-            }
+            },
             {
                 "id": 3,
                 "text": "Valentina"
-            }
+            },
             {
                 "id": 4,
                 "text": "Fiona"
