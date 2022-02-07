@@ -43,17 +43,17 @@ def Valentina():
 
 @app.route("/Fiona")
 def Fiona():
-    return render_template("Fiona.html", question=random_question())
+    return render_template("Fiona.html")
 
 
 @app.route("/Tim")
 def Tim():
-    return render_template("Tim.html", question=random_question())
+    return render_template("Tim.html")
 
 
 @app.route("/Elion")
 def Elion():
-    return render_template("Elion.html", question=random_question())
+    return render_template("Elion.html")
 
 
 
